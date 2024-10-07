@@ -15,7 +15,7 @@
 몸풀기, 예열목표
 
 - array, string 조작 연습
-  - []
+  - [1007문제](https://github.com/1-500/PreparePCCP/blob/main/%EB%AC%B8%EC%A0%9C/1007%EB%AC%B8%EC%A0%9C.md)
 - object에 관한 문제
 
 ### 2주차
