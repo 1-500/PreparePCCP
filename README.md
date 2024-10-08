@@ -21,6 +21,8 @@
 - object에 관한 문제
 - 그리디
 
+  - [1008문제](https://github.com/1-500/PreparePCCP/blob/main/%EB%AC%B8%EC%A0%9C/1008%EB%AC%B8%EC%A0%9C.md)
+
 - 정렬(sort)
 
 ### 2주차
